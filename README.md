@@ -13,9 +13,11 @@
 <br>
 <br>
 <br>
+<br>Интерфейс:
 ![screenshot](https://github.com/ashtray01/rmmbr/blob/main/scr/Screenshot_1.png)
+<br>Меню панели задач:
 ![screenshot](https://github.com/ashtray01/rmmbr/blob/main/scr/Screenshot_2.png)
-![screenshot](https://github.com/ashtray01/rmmbr/blob/main/scr/Screenshot_3.png)
+<br>Вводные данные:
 ![screenshot](https://github.com/ashtray01/rmmbr/blob/main/scr/Screenshot_4.png)
 <br>
 <br>
