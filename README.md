@@ -11,8 +11,6 @@
 <br>^([^\(]+)\s*\(([^)]+)\)$
 <br>^([^—–:]+)\s*(?:—|–|-)\s*(.+)$
 <br>
-<br>
-<br>
 <br>Интерфейс:<br>
 ![screenshot](https://github.com/ashtray01/rmmbr/blob/main/scr/Screenshot_1.png)
 <br>Меню панели задач:<br>
