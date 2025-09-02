@@ -1,1 +1,1 @@
-[img=icon.ico]
+[img=icon_rmmbr002.png]
